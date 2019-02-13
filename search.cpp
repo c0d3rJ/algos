@@ -14,7 +14,7 @@ using namespace std;
 */
 int linearSearch(auto data, auto key)//prototype
 {
-	for(int i =0; I <data.size(); i ++)
+	for(int i =0; i <data.size(); i ++)
 	{
 		if (data[i] == key)//we found it
 		{
